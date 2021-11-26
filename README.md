@@ -1,1 +1,2 @@
 # THP_KATAS-1_ruby
+NAOXY__TEST____NAOXY
